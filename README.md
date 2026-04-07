@@ -44,6 +44,7 @@ Hope that helps clear things up.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 - [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
+- [Bitcoin Bottom Score](https://bitcoinbottom.app) — Free Bitcoin market cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score.
 
 ## ☤ Reading Material
 
